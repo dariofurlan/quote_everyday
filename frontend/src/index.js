@@ -134,7 +134,34 @@ const demoralizing_quotes = [
         author: "Real Friends",
         quote: "I found myself in late night drives with no destination",
     }, {
+        author: "Jenova Chen",
+        quote: "We are all born alone and die alone. The loneliness is definitely part of the journey of life.",
+    }, {
+        author: "",
+        quote: "",
+    }, {
+        author: "",
+        quote: "",
+    }, {
+        author: "",
+        quote: "",
+    }, {
+        author: "",
+        quote: "",
+    }, {
+        author: "",
+        quote: "",
+    }, {
+        author: "",
+        quote: "",
+    }, {
+        author: "",
+        quote: "",
+    }, {
         author: "",
         quote: "",
     },
 ];
+
+// TODO definire l'amarezza: nostalgia, cinismo, tristezza, solitudine ...
+// TODO usare le definizioni di amarezza per mettere ogni tanto al posto delle frasi la definizione come nel dizionario
