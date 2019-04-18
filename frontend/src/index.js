@@ -91,11 +91,48 @@ const demoralizing_quotes = [
         author: "Ned Vizzini",
         quote: "I didn’t want to wake up. I was having a much better time asleep. And that’s really sad. It was almost like a reverse nightmare, like when you wake up from a nightmare you’re so relieved. I woke up into a nightmare.",
     }, {
-        author: "",
-        quote: "",
+        author: "Joseph Brodsky ",
+        quote: "Life—the way it really is—is a battle not between good and bad, but between bad and worse.",
     }, {
-        author: "",
-        quote: "",
+        author: "Mike Royko",
+        quote: "Show me somebody who is always smiling, always cheerful, always optimistic, and I will show you somebody who hasn't the faintest idea what the heck is really going on.",
+    }, {
+        author: "Scott Dikkers",
+        quote: "A true friend is a gift from God. Since God doesn't exist, guess what? Neither do true friends.",
+    }, {
+        author: "Stephen Chobsky",
+        quote: "Things change. And friends leave. Life doesn't stop for anybody.",
+    }, {
+        author: "Tabitha Suzuma",
+        quote: "As the light begins to intensify, so does my misery, and I wonder how it is possible to hurt so much when nothing is wrong.",
+    }, {
+        author: " Margaret Mitchell",
+        quote: "Life's under no obligation to give us what we expect.",
+    }, {
+        author: "Jake Roberts",
+        quote: "If you start the day miserable, nobody else can screw up your day",
+    }, {
+        author: "Voltaire",
+        quote: "Optimism is the madness of insisting that all is well when we are miserable"
+    }, {
+        author: "Woody Allen",
+        quote: "Life is full of misery, loneliness, and suffering - and it's all over much too soon."
+    }, {
+        author: "Woody Allen",
+        quote: "If you want to make God laugh, tell him about your plans.",
+    }, {
+        author: "Dante Alighieri",
+        quote_it: "Nessun maggior dolore, che ricordarsi del tempo felice, ne la miseria",
+        quote:"There is no greater sorrow than to recall in misery the time when we were happy."
+    }, {
+        author: "Taraji P. Henson",
+        quote: "Every human walks around with a certain kind of sadness. They may not wear it on their sleeves, but it’s there if you look deep.",
+    }, {
+        author: "Osho",
+        quote: "Sadness gives depth. Happiness gives height. Sadness gives roots. Happiness gives branches. Happiness is like a tree going into the sky, and sadness is like the roots going down into the womb of the earth. Both are needed, and the higher a tree goes, the deeper it goes, simultaneously. The bigger the tree, the bigger will be its roots. In fact, it is always in proportion. That’s its balance.",
+    }, {
+        author: "Real Friends",
+        quote: "I found myself in late night drives with no destination",
     }, {
         author: "",
         quote: "",
