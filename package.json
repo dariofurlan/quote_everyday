@@ -1,0 +1,23 @@
+{
+  "name": "quote_everyday",
+  "version": "1.0.0",
+  "description": "quote_everyday",
+  "main": "backend/src/index.js",
+  "scripts": {
+    "start": "node backend/src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iofurlan/quote_everyday.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iofurlan/quote_everyday/issues"
+  },
+  "homepage": "https://github.com/iofurlan/quote_everyday#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "web-push": "^3.3.3"
+  }
+}
